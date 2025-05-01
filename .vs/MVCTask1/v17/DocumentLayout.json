@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\models\\newestcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\models\\newestcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\models\\featuredcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\models\\featuredcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|c:\\users\\turan salimli\\source\\repos\\mvctask1\\mvctask1\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{133D1F40-19CD-4EA2-9615-9AAD60CFD7FC}|MVCTask1\\MVCTask1.csproj|solutionrelative:mvctask1\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "MVCTask1\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Models\\Service.cs",
+              "RelativeToolTip": "MVCTask1\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:45:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewestCar.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Models\\NewestCar.cs",
+              "RelativeDocumentMoniker": "MVCTask1\\Models\\NewestCar.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Models\\NewestCar.cs",
+              "RelativeToolTip": "MVCTask1\\Models\\NewestCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:43:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeaturedCar.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Models\\FeaturedCar.cs",
+              "RelativeDocumentMoniker": "MVCTask1\\Models\\FeaturedCar.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Models\\FeaturedCar.cs",
+              "RelativeToolTip": "MVCTask1\\Models\\FeaturedCar.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:42:57.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCTask1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:28:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTask1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:50:49.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCTask1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAmwBcBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:11:28.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTask1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCTask1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:10:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTask1\\Program.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Program.cs",
+              "RelativeToolTip": "MVCTask1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:47:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCTask1\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Turan Salimli\\source\\repos\\MVCTask1\\MVCTask1\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCTask1\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:51:37.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
